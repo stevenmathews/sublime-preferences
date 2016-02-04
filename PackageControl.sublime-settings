@@ -1,0 +1,26 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "All Autocomplete",
+    "AutoFileName",
+    "Babel",
+    "BracketHighlighter",
+    "Chai Completions",
+    "Emmet",
+    "Git",
+    "GitGutter",
+    "HTML5",
+    "Package Control",
+    "Pretty JSON",
+    "SideBarEnhancements",
+    "Stylus",
+    "SublimeLinter",
+    "SublimeLinter-contrib-standard",
+    "Theme - Spacegray",
+    "Trimmer"
+  ]
+}
